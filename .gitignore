@@ -8,6 +8,7 @@ lib/release
 Debug
 *.suo
 *.user
+*.cache
 obj
 bin
 /build/
