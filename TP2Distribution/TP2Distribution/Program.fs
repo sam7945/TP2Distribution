@@ -1,6 +1,4 @@
 ﻿open System
-
-open System
 //Méthode globale
 let charToInt c = int c - int '0'
 
