@@ -7,8 +7,10 @@ lib/debug
 lib/release
 Debug
 *.suo
+*.dtbcache
 *.user
 *.cache
+*.AssemblyInfo.fs
 obj
 bin
 /build/
