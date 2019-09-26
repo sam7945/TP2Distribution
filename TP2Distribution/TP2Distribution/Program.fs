@@ -36,6 +36,6 @@ let Exercice2 x =
 [<EntryPoint>]
 let main argv =
     Console.WriteLine("Exercice #1 : "+Exercice1 0)
-    Console.WriteLine("Exercice #2 : "+Exercice2 -205)
+    Console.WriteLine("Exercice #2 : "+Exercice2 205)
     Console.ReadKey()|>ignore;
     0 // return an integer exit code
