@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sam79\\Desktop\\GIT\\TP2Distribution\\TP2Distribution\\TP2Distribution\\TP2Distribution\\TP2Distribution.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sam79\\Desktop\\GIT\\TP2Distribution\\TP2Distribution\\TP2Distribution\\TP2Distribution\\TP2Distribution.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sam79\\Desktop\\GIT\\TP2Distribution\\TP2Distribution\\TP2Distribution\\TP2Distribution\\TP2Distribution.fsproj",
+        "projectName": "TP2Distribution",
+        "projectPath": "C:\\Users\\sam79\\Desktop\\GIT\\TP2Distribution\\TP2Distribution\\TP2Distribution\\TP2Distribution\\TP2Distribution.fsproj",
+        "packagesPath": "C:\\Users\\sam79\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sam79\\Desktop\\GIT\\TP2Distribution\\TP2Distribution\\TP2Distribution\\TP2Distribution\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sam79\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
