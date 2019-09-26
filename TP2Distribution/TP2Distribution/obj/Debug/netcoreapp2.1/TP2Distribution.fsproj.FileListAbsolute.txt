@@ -1,0 +1,10 @@
+C:\Users\sam79\Desktop\GIT\TP2Distribution\TP2Distribution\TP2Distribution\TP2Distribution\bin\Debug\netcoreapp2.1\TP2Distribution.deps.json
+C:\Users\sam79\Desktop\GIT\TP2Distribution\TP2Distribution\TP2Distribution\TP2Distribution\bin\Debug\netcoreapp2.1\TP2Distribution.runtimeconfig.json
+C:\Users\sam79\Desktop\GIT\TP2Distribution\TP2Distribution\TP2Distribution\TP2Distribution\bin\Debug\netcoreapp2.1\TP2Distribution.runtimeconfig.dev.json
+C:\Users\sam79\Desktop\GIT\TP2Distribution\TP2Distribution\TP2Distribution\TP2Distribution\bin\Debug\netcoreapp2.1\TP2Distribution.dll
+C:\Users\sam79\Desktop\GIT\TP2Distribution\TP2Distribution\TP2Distribution\TP2Distribution\bin\Debug\netcoreapp2.1\TP2Distribution.pdb
+C:\Users\sam79\Desktop\GIT\TP2Distribution\TP2Distribution\TP2Distribution\TP2Distribution\obj\Debug\netcoreapp2.1\TP2Distribution.fsprojAssemblyReference.cache
+C:\Users\sam79\Desktop\GIT\TP2Distribution\TP2Distribution\TP2Distribution\TP2Distribution\obj\Debug\netcoreapp2.1\TP2Distribution.AssemblyInfoInputs.cache
+C:\Users\sam79\Desktop\GIT\TP2Distribution\TP2Distribution\TP2Distribution\TP2Distribution\obj\Debug\netcoreapp2.1\TP2Distribution.AssemblyInfo.fs
+C:\Users\sam79\Desktop\GIT\TP2Distribution\TP2Distribution\TP2Distribution\TP2Distribution\obj\Debug\netcoreapp2.1\TP2Distribution.dll
+C:\Users\sam79\Desktop\GIT\TP2Distribution\TP2Distribution\TP2Distribution\TP2Distribution\obj\Debug\netcoreapp2.1\TP2Distribution.pdb
